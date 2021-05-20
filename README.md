@@ -4,7 +4,7 @@ This is a Docker image of the [gRPC-web proxy](https://github.com/improbable-eng
 
 ## Pulling
 
-The docker image is publicly available for everyone!
+The docker image is [publicly available to everyone](https://hub.docker.com/r/webis/grpcwebproxy/tags?page=1&ordering=last_updated)!
 
 ```bash
 docker run webis/grpcwebproxy:0.14.0 grpcwebproxy --help
